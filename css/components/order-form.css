@@ -1,0 +1,15 @@
+.order-form {
+    margin: auto;
+    width: 500px;
+}
+
+.order-form .list-radio {
+    margin-left: 16px;
+    margin-bottom: 10px;
+}
+
+.order-form .list-radio label {
+    padding-left: 16px;
+    box-sizing: border-box;
+}
+
